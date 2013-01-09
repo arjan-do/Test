@@ -2,6 +2,8 @@
 nbproject/private/
 build/
 nbbuild/
+nbproject/build-impl.xml
+nbproject/genfiles.properties
 dist/
 nbdist/
 nbactions.xml
@@ -15,8 +17,3 @@ nb-configuration.xml
 *.war
 *.ear
 
-nbproject/build-impl.xml
-
-nbproject/build-impl.xml
-
-nbproject/genfiles.properties
