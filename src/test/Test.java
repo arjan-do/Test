@@ -16,6 +16,6 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("dit is een test");
         
-        //dit werkt volgens mij nu wel
+        //dit werkt volgens mij nu wel test
     }
 }
